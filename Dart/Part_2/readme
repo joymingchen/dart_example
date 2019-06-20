@@ -1,0 +1,10 @@
+Dart面向对象的一些基本特性
+1、类与对象 class and object
+2、计算属性 calculated property
+3、构造方法 constructor
+4、常量构造方法 const constructor
+5、工作构造方法 factory constructor
+6、初始化列表 initialization list
+7、静态成员 static member
+8、对象操作符 object operator
+9、对象call方法 object call

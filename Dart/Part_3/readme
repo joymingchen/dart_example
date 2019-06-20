@@ -1,0 +1,9 @@
+Dart面向对象的一些拓展特性
+1、继承 extends
+2、继承中的构造方法 constructor extends
+3、抽象类 abstract
+4、接口 interface
+5、Mixins 混入，类似多继承
+6、覆写操作符 override operator
+7、枚举 enum
+8、泛型 generic
